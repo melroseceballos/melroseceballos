@@ -8,7 +8,7 @@ I started coding after I Co-Founded web3 project called Indigenous Women Fighter
 
 * 🌍  I'm based in Henderson, NV
 * 🖥️  See my portfolio at [My Portfolio](http://melrosceballos.com)
-* ✉️  You can contact me at [mcm44@gmail.com](mailto:mcm44@hawaii.edu)
+* ✉️  You can contact me at [mcm44@hawaii.edu](mailto:mcm44@hawaii.edu)
 * 🧠  I'm learning Advanced Computer Vision via Python
 * 🤝  I'm open to collaborating on Projects that I can learn from and enjoy!
 * ⚡  Fun fact, I speak 5 other languages and I have 6 Ranchu Goldfish!
