@@ -13,8 +13,8 @@ I started coding after I Co-Founded web3 project called Indigenous Women Fighter
 * 🤝  I'm open to collaborating on Projects that I can learn from and enjoy!
 * ⚡  Fun fact, I speak 5 other languages and I have 6 Ranchu Goldfish!
 
-### Skills
-
+### I've worked with: 
+##Skills/Tools
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
