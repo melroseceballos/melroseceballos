@@ -62,4 +62,4 @@ I started coding after I Co-Founded web3 project called Indigenous Women Fighter
 
 ![](https://github-readme-stats.vercel.app/api?username=melroseceballos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-<a href="http://www.github.com/melroseceballos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melroseceballos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=melroseceballos&theme=radical&hide_border=false![](https://github-readme-streak-stats.herokuapp.com/?user=melroseceballos&theme=radical&hide_border=false))
