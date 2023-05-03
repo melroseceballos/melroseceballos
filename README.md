@@ -1,5 +1,4 @@
-
-![](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melrose Ceballos
@@ -10,12 +9,15 @@ Full-Stack Software Engineer
 
 I started coding after I Co-Founded web3 project called Indigenous Women Fighters. I mostly learned about front-end development and smart contracts. From then on, my curiosity to learn more started and I decided to get into computer science and I have never been happier! I love being a Full-Stack Software Engineer because there's always room to grow and learn, I also love that I am able to tap into my creative side in many ways!
 
-* 🌍  I'm based in Henderson, NV
+* 🌍  I'm based in Henderson, NV <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 * 🖥️  See my portfolio at [My Portfolio](http://melrosceballos.com)
 * ✉️  You can contact me at [mcm44@hawaii.edu](mailto:mcm44@hawaii.edu)
 * 🧠  I'm learning Advanced Computer Vision via Python and React.js
 * 🤝  I'm open to collaborating on Projects that I can learn from and enjoy!
 * ⚡  Fun fact, I speak 5 other languages and I have 6 Ranchu Goldfish!
+
+
+
 
 ### Here are my Skills: 
 
