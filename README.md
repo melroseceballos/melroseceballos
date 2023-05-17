@@ -18,7 +18,7 @@ I started coding after I Co-Founded web3 project called Indigenous Women Fighter
 * ⚡  Fun fact, I speak 5 other languages and I have 6 Ranchu Goldfish!
 
 ## 💗 Favorite Project:
-My favorite project is called Filmove - I developed a pair application with it called Computer Vision in my repos which allows users to navigate through my app using their hand motions. I had so much fun developing and thinking about new functios I can utilize. I plan to develop it more so I can cast it to my TV that way I can eliminate the need for remote controls and simply navigate Netflix through hand-motion 🖖
+My favorite project is called Filmove - I developed a pair application with it called Computer Vision in my repos which allows users to navigate through my app using their hand motions. I had so much fun developing and thinking about new functios I can utilize! I plan to develop it more so I can cast it to my TV that way I can eliminate the need for remote controls and simply navigate Netflix through hand-motion 🖖
 
 
 
