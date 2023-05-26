@@ -69,6 +69,4 @@ My favorite project is called Filmove - I developed a pair application with it c
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=melroseceballos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melroseceballos&theme=radical&hide_border=false![](https://github-readme-streak-stats.herokuapp.com/?user=melroseceballos&theme=radical&hide_border=false))
